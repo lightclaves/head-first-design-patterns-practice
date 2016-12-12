@@ -9,7 +9,6 @@ INDEX VERSION 1.126+D:\Self Improvement\head-first-design-patterns-practice\.met
 662129271.index
 3023681961.index
 1297580988.index
-578616986.index
 3028879811.index
 493040035.index
 1260374096.index
